@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://git.oschina.net/quchangqing/codes/cob2lr3wg9ms8iz1nvqae81/raw?blob_name=busniessTest.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1503583026012&amp;di=ef6a9804890f75a4d964c0ed83e0d063&amp;imgtype=0&amp;src=http%3A%2F%2Fimg.taopic.com%2Fuploads%2Fallimg%2F110928%2F41-11092PRF484.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1503582970435&amp;di=2260f3f02851b8d20c7cbb0636d8d382&amp;imgtype=0&amp;src=http%3A%2F%2Fd.lanrentuku.com%2Fdown%2Fpng%2F1104%2Flboi-tweetscotty%2Falienbird_512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.yjyc.gfcp</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>busniessTest</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
